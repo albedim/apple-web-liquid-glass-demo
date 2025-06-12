@@ -1,7 +1,7 @@
 {
   "homepage": "https://albedim.github.io/apple-web-liquid-glass-demo",
   "name": "apple-web-liquid-glass-demo",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
