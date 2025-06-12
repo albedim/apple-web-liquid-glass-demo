@@ -24,7 +24,7 @@ Built with **React + Tailwind CSS**, this library lets you create realistic glas
 
 Liquid Glass Demo
 
-> Try it yourself: [Live Demo (CodeSandbox)](https://albedim.github.io/apple-web-liquid-glass-demo)
+> Try it yourself: [Live Demo (CodeSandbox)](http://albedim.github.io/apple-web-liquid-glass-demo)
 
 ---
 
